@@ -1,6 +1,9 @@
 # incomplete-trading-bot
- More at www.theincompleteguide.com
+ 
+There's more at www.theincompleteguide.com, and a Udemy course.
 
- This code is free, THANK YOU!
- It is explained at the guide you can find at www.theincompleteguide.com
- You will also find improvement ideas and explanations
+Planned updates include:
+    Options for E-mail and SMS notifications.
+    Update with Alpaca's latest api update.
+    Update to include Alpace Crytpo API.
+
